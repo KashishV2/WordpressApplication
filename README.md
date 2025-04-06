@@ -50,7 +50,7 @@ FLUSH PRIVILEGES;
 cd /var/www/html/wp-content/themes
 sudo mkdir awesome-theme
 cd awesome-theme
-# create style.css, index.php, and functions.php
+create style.css, index.php, and functions.php
 
 ## Features
 
